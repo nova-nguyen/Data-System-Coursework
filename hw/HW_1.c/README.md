@@ -21,6 +21,8 @@ Next, complete [`patterns.ipynb`](patterns.ipynb).  This notebook will guide you
 
 ## Step 3: Dictionaries
 
+> *Update: We did not discuss dictionaries in class, so this file is not required as part of HW 1.c.*
+
 Then, complete [`dictionaries.ipynb`](dictionaries.ipynb).  This notebook will help you review the use of dictionaries in Python.  This notebook also asks you to give the time you spent on this homework.
 
 ---
@@ -37,8 +39,6 @@ You will submit your homework by using Git to *commit* your changes, and *pushin
     $ git add hw/HW_1.c/pythonbasic2.ipynb
 
     $ git add hw/HW_1.c/patterns.ipynb
-
-    $ git add hw/HW_1.c/dictionaries.ipynb
     ```
 
 - You can use the command `git status` to verify that you've added the files you want to have in the commit.

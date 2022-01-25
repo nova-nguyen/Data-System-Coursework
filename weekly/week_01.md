@@ -13,7 +13,7 @@ Day        | Reading      | Warm-Up Questions*
 Monday     | Syllabus, Preface |
 Tuesday    | All of Chapter 1; Section 2.1 | 2.4, 2.7, 2.9
 Wednesday  | Sections 2.2 and 2.3 | 2.21, 2.23, 2.28, 2.54
-Friday     | Sections 3.1 and 3.2 | 3.1, 3.7, 3.10, 3.35
+Friday     | Section 3.1 | 3.1, 3.7, 3.10
 
 \*You do not have to turn in answers to these questions, but you are expected to do the reading and ponder the questions before the start of class.
 
@@ -24,7 +24,7 @@ The goal for this week is to review and set up for Week 2 on 2D representations 
 - Monday: Go over the course syllabus, discuss our high-level learning objectives for the semester, and introduce our use of GitHub in preparation for the first software lab.
 - Tuesday: Have the first software lab, in which we get everyone set up with Git and GitHub, explore the file/path hierarchy in operating systems, and then review programmatic access in `os`/`os.path` calls from Tables 2.3 and 2.4.
 - Wednesday: Review how to use Python to open and close files and parse file contents line by line.
-- Friday: Refresh various Python patterns (e.g., accumulation) using lists and dictionaries.
+- Friday: Refresh various Python patterns (e.g., accumulation) using lists.
 
 ---
 
@@ -34,7 +34,7 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_1.a](../hw/HW_1.a/README.md) | Monday | Friday (1/21)** | Short two notebook set
 [HW_1.b](../hw/HW_1.b/README.md) | Wednesday | Friday (1/21) | Python review
-[HW_1.c](../hw/HW_1.c/README.md) | Friday | Wednesday (1/26) | List patterns and dictionaries
+[HW_1.c](../hw/HW_1.c/README.md) | Friday | Wednesday (1/26) | Python review (cont'd) and list patterns
 
 \**Homework assignments will typically be due the M/W/F following the class in which they are assigned.  There is extra leniency in Week 1 while we get set up with Git.  However, HW_1.a is primarily a simple test of your computer setup and the homework-submission workflow, so you should try to submit it by Wednesday, and not put it off for Friday.
 
