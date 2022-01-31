@@ -6,7 +6,6 @@
   - Review so far
   - New Python Features
       - Functions as objects, lambda functions
-      - List comprehensions (if time allows)
 
 ## Readings for the week
 
@@ -14,7 +13,7 @@ Day        | Reading      | Reading Questions
 :--------- |:-------------|:----------------------------------
 Tuesday    | Sections 3.2 and 3.4.1| 3.35, 3.102, 3.104
 Wednesday  | n/a          | n/a
-Friday     | Section 3.3  | 3.57, 3.59, 3.62
+Friday     | Sections 3.3.1-3.3.2  | 3.57, 3.59, 3.62
 
 ## Progression
 
@@ -24,7 +23,7 @@ Tuesday: Review/learn about dictionaries and build dictionary-of-list representa
 
 Wednesday: Review Python and content so far.
 
-Friday: Continue review, learn about functions as objects and lambda functions (and list comprehensions, if time allows).
+Friday: Continue review, learn about functions as objects and lambda functions.
 
 ---
 
@@ -33,7 +32,7 @@ Friday: Continue review, learn about functions as objects and lambda functions (
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_1.c](../hw/HW_1.c/README.md) | Friday (1/21) | Friday (1/28) | Review of Python basics
-[HW_1.d](../hw/HW_1.d/README.md) | Friday (1/28) | Monday (1/31) | Lambda functions and list comprehensions
+[HW_1.d](../hw/HW_1.d/README.md) | Friday (1/28) | Monday (1/31) | Functions as objects and lambda functions
 
 We will be spending Wednesday (and possibly part of Friday) reviewing, so the due date of HW 1.c is pushed back to Friday.
 
@@ -47,6 +46,5 @@ In the [second software lab](../sw_lab/lab_02/swlab_02.md), we'll explore dictio
 
 DCS is **Discovering Computer Science** by Jessen Havill (i.e. your textbook from Intro CS).
 
-- list comprehensions: DCS 8.2
 - tuples: DCS 8.2
 - 2D representations: DCS: chapter 9
