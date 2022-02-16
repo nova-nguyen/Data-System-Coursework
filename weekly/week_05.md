@@ -28,7 +28,7 @@ Monday: Consider row selection and more complex row and column combinations.  Al
 
 Tuesday: Complete software lab focusing on mutations to change values, delete rows or columns, add rows and columns, and even conditionally update values for only some rows.
 
-Wednesday: Explore aggregation, starting with simple aggregation of column vectors, and proceeding to variations (uniform and non-uniform) aggregating on subsets of columns in a dataframe.  If time permits, we'll extend this to group partitioning and GroupBy.
+Wednesday: Explore aggregation, starting with simple aggregation of column vectors, and proceeding to variations (uniform and non-uniform) aggregating on subsets of columns in a dataframe.  Finally, we'll extend this to group partitioning and GroupBy.
 
 Friday: Discuss combining tables, extending to integrating combining tables with join and merge operations.  We will also see some operations that allow us to deal with missing data.
 
@@ -39,7 +39,7 @@ Friday: Discuss combining tables, extending to integrating combining tables with
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_2.c](../hw/HW_2.c/README.md) | Monday (2/14) | Wednesday (2/16) | Row selection, complex access combinations
-HW_2.d | Wednesday (2/16) | Friday (2/18) | Aggregation and GroupBy
+[HW_2.d](../hw/HW_2.d/README.md) | Wednesday (2/16) | Friday (2/18) | Aggregation and GroupBy
 HW_2.e | Friday (2/18) | Monday (2/21)    | Table combining and missing data
 
 ## Tuesday Software Lab
