@@ -9,7 +9,6 @@
       - Aggregating Data
       - Grouping Data
       - Combining Tables
-      - Missing Data
 
 ## Readings for the week
 
@@ -18,7 +17,7 @@ Day        | Reading      | Reading Questions
 Monday     | Sections 7.3.3-7.3.6          | 7.25, 7.26, 7.31
 Tuesday    | Section 8.2 | none
 Wednesday  | Section 8.1  | none
-Friday     | Sections 8.3-8.4 | none
+Friday     | Section 8.3 | none
 
 ## Progression
 
@@ -30,7 +29,7 @@ Tuesday: Complete software lab focusing on mutations to change values, delete ro
 
 Wednesday: Explore aggregation, starting with simple aggregation of column vectors, and proceeding to variations (uniform and non-uniform) aggregating on subsets of columns in a dataframe.  Finally, we'll extend this to group partitioning and GroupBy.
 
-Friday: Discuss combining tables, extending to integrating combining tables with join and merge operations.  We will also see some operations that allow us to deal with missing data.
+Friday: Discuss combining tables, extending to integrating combining tables with join and merge operations.
 
 ---
 
@@ -40,7 +39,7 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_2.c](../hw/HW_2.c/README.md) | Monday (2/14) | Wednesday (2/16) | Row selection, complex access combinations
 [HW_2.d](../hw/HW_2.d/README.md) | Wednesday (2/16) | Friday (2/18) | Aggregation and GroupBy
-HW_2.e | Friday (2/18) | Monday (2/21)    | Table combining and missing data
+[HW_2.e](../hw/HW_2.e/README.md) | Friday (2/18) | Monday (2/21)    | Table combining
 
 ## Tuesday Software Lab
 
