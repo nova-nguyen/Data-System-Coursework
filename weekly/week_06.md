@@ -42,4 +42,4 @@ HW_2.g | Wednesday (2/23) | Friday (2/25) | Normalization to Tidy Data
 
 ## Tuesday Software Lab
 
-In the sixth software lab, we'll explore the pivot tabular transformation operation, and its application in making tabular data tidy.
+In the [sixth software lab](../sw_lab/lab_06/swlab_06.md), we'll explore the pivot tabular transformation operation, and its application in making tabular data tidy.
