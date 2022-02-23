@@ -38,7 +38,7 @@ Friday: Quiz 2.  (Lessons 11-22, including Wed. 2/23.)
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_2.f](../hw/HW_2.f/README.md) | Monday (2/21) | Wednesday (2/23) | Tabular Transformations
-HW_2.g | Wednesday (2/23) | Friday (2/25) | Normalization to Tidy Data
+[HW_2.g](../hw/HW_2.g/README.md) | Wednesday (2/23) | Friday (2/25) | Normalization to Tidy Data
 
 ## Tuesday Software Lab
 
