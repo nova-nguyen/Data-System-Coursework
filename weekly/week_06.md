@@ -9,6 +9,7 @@
       - Melt and Pivot
       - Common Normalization
       - Recognizing Messy Data
+  - Quiz 2
 
 ## Readings for the week
 
@@ -16,7 +17,7 @@ Day        | Reading      | Reading Questions
 :--------- |:-------------|:----------------------------------
 Monday     | Sections 8.4, 9.1-9.2.2, 9.3.1 | 9.16, 9.18, 9.20
 Tuesday    | Section 9.2.3 | none
-Wednesday  | Section 9.3.2-9.4  | none
+Wednesday  | Sections 9.3.2-9.4  | none
 Friday     | n/a | n/a
 
 ## Progression
