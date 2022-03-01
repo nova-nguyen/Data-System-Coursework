@@ -12,7 +12,7 @@
 Day        | Reading      | Reading Questions
 :--------- |:-------------|:----------------------------------
 Monday     | Sections 15.1-15.3, 2.4 | 15.7, 15.11 (with two tables separately)
-Tuesday    | Sections 16.1-16.2 | none
+Tuesday    | Sections 16.1-16.2 | 16.5
 Wednesday  | Section 15.4 | none
 Friday     | Section 16.3 | none
 
@@ -40,4 +40,4 @@ HW_3.c | Friday (3/4)  | Monday (3/7) | XML procedural operations
 
 ## Tuesday Software Lab
 
-In the seventh software lab, we'll explore JSON procedural operations.
+In the [seventh software lab](../sw_lab/lab_07/swlab_07.md), we'll practice working with JSON via JSON-based COVID-19 data processing.
