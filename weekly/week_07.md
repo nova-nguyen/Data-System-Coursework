@@ -35,7 +35,7 @@ Friday: Extend discussion of hierarchical procedural operations to XML-based dat
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_3.a](../hw/HW_3.a/README.md) | Monday (2/28) | Wednesday (3/2) | JSON
-HW_3.b | Wednesday (3/2) | Friday (3/4) | XML
+[HW_3.b](../hw/HW_3.b/README.md) | Wednesday (3/2) | Friday (3/4) | XML
 HW_3.c | Friday (3/4)  | Monday (3/7) | XML procedural operations
 
 ## Tuesday Software Lab
