@@ -1,0 +1,20 @@
+<courses>
+    <course course = "CS">
+        <coursedata coursenum = "173">
+            <coursename title = "Intermediate Computer Science"></coursename>
+        </coursedata>
+        <coursedata coursenum = "372">
+            <coursename title = "Operating Systems"></coursename>
+        </coursedata>
+    </course>
+    <course course = "MATH">
+        <coursedata coursenum = "300">
+            <coursename title = "Introduction to Proofs"></coursename>
+        </coursedata>
+    </course>
+    <course course = "ENGL">
+        <coursedata coursenum = "213">
+            <coursename title = "Early British Literature"></coursename>
+        </coursedata>
+    </course>
+</courses>

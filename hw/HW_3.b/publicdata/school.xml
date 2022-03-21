@@ -1,0 +1,29 @@
+<courses>
+    <course course = "CS"
+            subject = "CS"
+            name = "Computer Science"
+            department = "CS">
+        <coursedata coursenum = "173">
+            <coursename title = "Intermediate Computer Science"></coursename>
+        </coursedata>
+        <coursedata coursenum = "372">
+            <coursename title = "Operating Systems"></coursename>
+        </coursedata>
+    </course>
+    <course course = "MATH"
+            subject = "MATH"
+            name = "Mathematics"
+            department = "MATH">
+        <coursedata coursenum = "300">
+            <coursename title = "Introduction to Proofs"></coursename>
+        </coursedata>
+    </course>
+    <course course = "ENGL"
+            subject = "ENGL"
+            name = "English Literature"
+            department = "ENGL">
+        <coursedata coursenum = "213">
+            <coursename title = "Early British Literature"></coursename>
+        </coursedata>
+    </course>
+</courses>

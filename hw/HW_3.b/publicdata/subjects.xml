@@ -1,0 +1,11 @@
+<subjects>
+    <subject subject = "CS"
+             name = "Computer Science"
+             department = "CS"></subject>
+    <subject subject = "MATH"
+             name = "Mathematics"
+             department = "MATH"></subject>
+    <subject subject = "ENGL"
+             name = "English Literature"
+             department = "ENGL"></subject>
+</subjects>
