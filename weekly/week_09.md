@@ -37,7 +37,7 @@ Friday: Quiz 3.  (Lessons 24-34, including Wed. 3/23.)
 
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
-HW_3.e | Wednesday (3/23) | Friday (3/25) | Web Scraping
+[HW_3.e](../hw/HW_3.e/README.md) | Wednesday (3/23) | Friday (3/25) | Web Scraping
 
 ## Tuesday Software Lab
 
