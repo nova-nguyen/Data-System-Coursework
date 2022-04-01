@@ -36,7 +36,7 @@ Friday: We will finish exploring single-table SQL expressions, including computi
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_4.a](../hw/HW_4.a/README.md) | Wednesday (3/30) | Friday (4/1) | Single-Table SQL Selection
-HW_4.b | Friday (4/1) | Monday (4/4) | Single-Table SQL Vector Operations, Partitioning, and Aggregation
+[HW_4.b]](../hw/HW_4.b/README.md) | Friday (4/1) | Monday (4/4) | Single-Table SQL Vector Operations, Partitioning, and Aggregation
 
 ## Tuesday Software Lab
 
