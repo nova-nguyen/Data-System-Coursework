@@ -14,7 +14,7 @@ Day        | Reading      | Reading Questions
 :--------- |:-------------|:----------------------------------
 Monday     | Sections 12.1-12.3.1 | none
 Tuesday    | Sections 12.3.3-12.4 | 12.54, 12.58, 12.60
-Wednesday  | Sections 12.5-12.6   | none
+Wednesday  | Sections 12.5-12.6   | 12.65, 12.83, 12.86
 Friday     | Sections 14.1-14.4   | none
 
 ## Progression
@@ -36,9 +36,9 @@ Friday: We will launch into some of the most important principles for when we ne
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_4.c](../hw/HW_4.c/README.md) | Monday (4/4) | Wednesday (4/6) | `school` database and multi-table inner joins
-HW 4.d | Wednesday (4/6) | Friday (4/8) | Complex multi-table aggregation and subqueries
+[HW_4.d](../hw/HW_4.d/README.md) | Wednesday (4/6) | Friday (4/8) | Complex multi-table aggregation and subqueries
 HW 4.e | Friday (4/8) | Monday (4/11) | Creating SQL databases
 
 ## Tuesday Software Lab
 
-In the eleventh software lab, we'll explore multi-table SQL queries, including more complex inner joins, as well as different types of outer joins.
+In the [eleventh software lab](../sw_lab/lab_11/swlab_11.md), we'll explore multi-table SQL queries, including more complex inner joins, as well as different types of outer joins.
