@@ -1,0 +1,12 @@
+{
+  "sqlite1": {
+    "dbdir": "../../dbfiles",
+    "database": "book",
+    "scheme": "sqlite"
+  },
+  "sqlite2": {
+    "dbdir": "../../dbfiles",
+    "database": "school",
+    "scheme": "sqlite"
+  }
+}
