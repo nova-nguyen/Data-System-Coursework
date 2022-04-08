@@ -6,7 +6,8 @@
       - Inner and Outer Joins
       - Partitioning and Aggregation of Joined Data
       - Subqueries in Multi-Table Operations
-  - Database Design and Creation
+  - Database Design
+      - Design Principles: Tables, Fields
 
 ## Readings for the week
 
@@ -15,7 +16,7 @@ Day        | Reading      | Reading Questions
 Monday     | Sections 12.1-12.3.1 | none
 Tuesday    | Sections 12.3.3-12.4 | 12.54, 12.58, 12.60
 Wednesday  | Sections 12.5-12.6   | 12.65, 12.83, 12.86
-Friday     | Sections 14.1-14.4   | none
+Friday     | Sections 14.1-14.3   | 14.6, 14.18, 14.19, 14.20
 
 ## Progression
 
@@ -27,7 +28,7 @@ Tuesday: We will expand our SQL toolbox to more complex inner joins, as well as 
 
 Wednesday: We will see how these composite/joined tables give us additional power when we do group by and aggregation, and also how we can use a subquery, often which contains a joined table, as part of a larger query.
 
-Friday: We will launch into some of the most important principles for when we need to create **our own** databases.  SQL for table creation and for population of tables with data will be covered as time permits.
+Friday: We will launch into some of the most important principles for when we need to create **our own** databases, including those related to the design of tables and their fields.
 
 ---
 
@@ -37,7 +38,7 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_4.c](../hw/HW_4.c/README.md) | Monday (4/4) | Wednesday (4/6) | `school` database and multi-table inner joins
 [HW_4.d](../hw/HW_4.d/README.md) | Wednesday (4/6) | Friday (4/8) | Complex multi-table aggregation and subqueries
-HW 4.e | Friday (4/8) | Monday (4/11) | Creating SQL databases
+[HW_4.e](../hw/HW_4.e/README.md) | Friday (4/8) | Monday (4/11) | Relational database design
 
 ## Tuesday Software Lab
 
