@@ -13,9 +13,9 @@
 
 Day        | Reading      | Reading Questions
 :--------- |:-------------|:----------------------------------
-Monday     | Sections 14.4-14.6.1 | 14.30, 14.45, 14.46, 14.55
-Tuesday    | Sections 14.6.2 | none
-Wednesday  | none   | none
+Monday     | Sections 14.4-14.5 | 14.30, 14.45, 14.46
+Tuesday    | Sections 13.1-13.2, 13.4, 14.6.1, 14.6.2.3 | 14.55
+Wednesday  | Sections 14.6   | none
 Friday     | n/a | n/a
 
 ## Progression
@@ -41,4 +41,4 @@ HW_4.g | Wednesday (4/13) | Friday (4/15) | Table creation and population
 
 ## Tuesday Software Lab
 
-In the twelfth software lab, we'll explore the creation and population of SQL databases both using SQL statements and programmatically from Python.
+In the [twelfth software lab](../sw_lab/lab_12/swlab_12.md), we'll explore the creation and population of SQL databases both using SQL statements and programmatically from Python.

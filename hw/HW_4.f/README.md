@@ -8,7 +8,7 @@ The goal of this HW is to help you practice database design, focusing on relatio
 
 ## Step 1: Database Design
 
-Complete [`database_design2.ipynb`](database_design2.ipynb).  This notebook contains exercises that continue to guide you through the process of designing a relational database.
+Complete Parts A, B, and D of [`database_design2.ipynb`](database_design2.ipynb).  (You may skip part C.)  This notebook contains exercises that continue to guide you through the process of designing a relational database.
 
 ## Step 2: Submission
 

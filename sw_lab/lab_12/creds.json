@@ -1,0 +1,17 @@
+{
+  "sqlite_book": {
+    "dbdir": "../../dbfiles",
+    "database": "book",
+    "scheme": "sqlite"
+  },
+  "sqlite_school": {
+    "dbdir": "../../dbfiles",
+    "database": "school",
+    "scheme": "sqlite"
+  },
+  "sqlite_entertainment": {
+    "dbdir": "../../dbfiles",
+    "database": "entertainment",
+    "scheme": "sqlite"
+  }
+}
