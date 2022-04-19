@@ -30,7 +30,7 @@ Monday: We will broadly discuss data sources, and then introduce the architectur
 
 Tuesday: We will begin our exploration of HTTP, which is the dominant protocol of the internet, and provides a backbone for many popular networking libraries and APIs.
 
-Wednesday: We will continue exploring HTTP, focusing on different types of requests.  We will consider the HTTP method (GET and POST), the values of header key-value pairs, augmentation of the resource path with query string key-value pairs and, for POST requests, including a **body** that contains information for the request.
+Wednesday: We will discuss the client-server model and then continue exploring HTTP, focusing on different types of requests.  We will consider the HTTP method (GET and POST), the values of header key-value pairs, augmentation of the resource path with query string key-value pairs and, for POST requests, including a **body** that contains information for the request.
 
 Friday: We will begin our discussion of HTTP responses, for which we need to be able to understand and accomodate encodings, get meta-information about the response through its headers, and process the body of the response.
 
@@ -47,4 +47,4 @@ Note: the first homework of this unit is not due until **Friday, April 22nd**.
 
 ## Tuesday Software Lab
 
-In the thirteenth software lab, we'll explore HTTP fundamentals.
+In the [thirteenth software lab](../sw_lab/lab_13/swlab_13.md), we'll explore HTTP fundamentals.
