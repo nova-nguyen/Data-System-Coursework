@@ -15,7 +15,7 @@ Day        | Reading      | Reading Questions
 :--------- |:-------------|:----------------------------------
 Monday     | Sections 14.4-14.5 | 14.30, 14.45, 14.46
 Tuesday    | Sections 13.1-13.2, 13.4, 14.6.1, 14.6.2.3 | 14.55
-Wednesday  | Sections 14.6   | none
+Wednesday  | Sections 14.5-14.6.1   | none
 Friday     | n/a | n/a
 
 ## Progression
@@ -26,7 +26,7 @@ Monday: We will complete our discussion of principles for designing relational d
 
 Tuesday: We will practice creating tables in a database and programmatic table population from a `pandas` `DataFrame`.
 
-Wednesday: We will review our knowledge of SQL with some closing examples.
+Wednesday: We will finish discussing field and table constraints when creating tables and inserting data into them, and review what we've learned in Unit 4.
 
 Friday: Quiz 4.  (Lessons 36-46, including Wed. 4/13.)
 
@@ -37,7 +37,6 @@ Friday: Quiz 4.  (Lessons 36-46, including Wed. 4/13.)
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_4.f](../hw/HW_4.f/README.md) | Monday (4/11) | Wednesday (4/13) | Relational database design, cont'd
-HW_4.g | Wednesday (4/13) | Friday (4/15) | Table creation and population
 
 ## Tuesday Software Lab
 
