@@ -11,7 +11,6 @@
   - `requests` module
   - Integrating Requests with Processing
     - Encoding
-    - `BytesIO` and `StringIO`
 
 ## Readings for the week
 
@@ -20,7 +19,7 @@ Day        | Reading      | Reading Questions
 Monday     | Chapter 18, Sections 19.1-19.2 | 19.7, 19.9, 19.10, 19.18
 Tuesday    | Sections 20.1-20.2 | 20.4, 20.8
 Wednesday  | Sections 19.3, 20.3 | 20.25, 20.33
-Friday     | Sections 21.1-21.2 | 21.4, 21.17, 21.18
+Friday     | Section 21.1 | 21.4
 
 ## Progression
 
@@ -41,9 +40,11 @@ Friday: We will begin our discussion of HTTP responses, for which we need to be 
 HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_5.a](../hw/HW_5.a/README.md) | Wednesday (4/20) | Friday (4/22) | `requests` module (`GET` and `POST`)
-HW_5.b | Friday (4/22) | Monday (4/25) | encoding and CSV
+[HW_5.b](../hw/HW_5.b/README.md) | Friday (4/22) | optional | encodings
 
 Note: the first homework of this unit is not due until **Friday, April 22nd**.
+
+Note: HW 5.b is **optional**.
 
 ## Tuesday Software Lab
 
