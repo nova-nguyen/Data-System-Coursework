@@ -17,7 +17,7 @@
 Day        | Reading      | Reading Questions
 :--------- |:-------------|:----------------------------------
 Monday     | Sections 21.2-21.4 | 21.17, 21.19, 21.28, 21.32, 21.40, 21.46
-Tuesday    | Sections 23.1-23.2 | None
+Tuesday    | Sections 23.1-23.2 | 23.7, 23.17
 Wednesday  | Section 23.3 | None
 Friday     | \[Skim\] Sections 24.1, 24.3 | None
 
@@ -45,4 +45,4 @@ HW_5.e | Friday (4/29) | Monday (5/2) | OAuth
 
 ## Tuesday Software Lab
 
-In the fourteenth software lab, we'll explore data acquisition via APIs.
+In the [fourteenth software lab](../sw_lab/lab_14/swlab_14.md), we'll explore data acquisition via APIs.

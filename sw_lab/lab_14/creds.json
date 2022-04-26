@@ -1,0 +1,7 @@
+{
+    "tmdb": {
+        "protocol": "https",
+        "location": "api.themoviedb.org",
+        "apikey": ""
+    }
+}
