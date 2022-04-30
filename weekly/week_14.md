@@ -8,9 +8,9 @@
     - Determining HTTP
       - Parameters within HTTP
     - Data Acquisition and Processing
-  - [If time] Authentication and Authorization
-    - Basics of the OAuth2 "Dance"
-    - Doing the dance
+  - Authentication and Authorization
+    - Encryption, Keys, and Signatures
+    - HTTPS
 
 ## Readings for the week
 
@@ -19,7 +19,7 @@ Day        | Reading      | Reading Questions
 Monday     | Sections 21.2-21.4 | 21.17, 21.19, 21.28, 21.32, 21.40, 21.46
 Tuesday    | Sections 23.1-23.2 | 23.7, 23.17
 Wednesday  | Section 23.3 | 23.35, 23.37, 23.38
-Friday     | \[Skim\] Sections 24.1, 24.3 | None
+Friday     | Sections 24.1-24.2 | 24.4, 24.6, 24.8, 24.13
 
 ## Progression
 
@@ -31,7 +31,7 @@ Tuesday: We will introduce RESTful Application Programming Interfaces (APIs).
 
 Wednesday: We will continue discussing APIs, including understanding the provider's requirements for requests and translating to the proper HTTP for making the requests, via a case study using the GitHub API.
 
-Friday: If time permits, we will introduce the concepts of authentication (AuthN) and authorization (AuthZ), specifically via OAuth, by which a resource owner can convey permission to a client to obtain data on their behalf.
+Friday: We will introduce the concepts of authentication (AuthN) and authorization (AuthZ), and then extend our GitHub API case study to include authenticated requests, exploring our own course repository from this semester.
 
 ---
 
@@ -41,7 +41,7 @@ HW | Day Assigned  | Day Due (by 4pm) | Contents
 :--|:--------|:--------|:------------
 [HW_5.c](../hw/HW_5.c/README.md) | Monday (4/25) | Wednesday (4/27) | CSV and XML request processing
 [HW_5.d](../hw/HW_5.d/README.md) | Wednesday (4/27) | Friday (4/29) | APIs
-HW_5.e | Friday (4/29) | Monday (5/2) | OAuth
+[HW_5.e](../hw/HW_5.e/README.md) | Friday (4/29) | Monday (5/2) | AuthN and HTTPS
 
 ## Tuesday Software Lab
 
